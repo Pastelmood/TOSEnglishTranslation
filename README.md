@@ -15,3 +15,6 @@ Base on English Steam.
 ### วิธีติดตั้ง
 * Copy โฟร์เดอร์ Thai English ไปไว้ใน languageData ในโฟร์เดอร์ของเกม
 * เข้าเกมแล้วกดเลือกเปลี่ยนภาษา
+
+### Update
+* เพิ่มสีไดอาลอคที่สอง เควสทำ Practonium เป็นสองสี
