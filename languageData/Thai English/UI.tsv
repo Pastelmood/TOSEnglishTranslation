@@ -2713,3 +2713,217 @@ UI_20170816_002712	{@st66b}Receive Rewards
 UI_20170816_002713	Location
 UI_20171011_002714	{@st59}Wing{/}
 UI_20171011_002715	{@st59}Exchange Equipment (Alt+Z){/}
+UI_20171019_002716	{@st43b}Adventure Journal
+UI_20171019_002717	{@st59}Adventure Journal Ranking
+UI_20171019_002718	{@st59}Team Battle League Ranking{/}
+UI_20171019_002719	{@st59}Uphill Defense Ranking{/}
+UI_20171019_002720	{@st59}Main{/}
+UI_20171019_002721	{@st59}Monsters{/}
+UI_20171019_002722	{@st59}Items{/}
+UI_20171019_002723	{@st59}Crafting{/}
+UI_20171019_002724	{@st59}Life{/}
+UI_20171019_002725	{@st59}Dungeons{/}
+UI_20171019_002726	{@st59}Growth{/}
+UI_20171019_002727	{@st59}Exploration{/}
+UI_20171019_002728	Team
+UI_20171019_002729	Character
+UI_20171019_002730	{img test_cooltime 24 24}Points reset on the 1st day of every month.{/}
+UI_20171019_002731	{@st41b}Top Ranks
+UI_20171019_002732	{@st41b}My Nearest Ranks
+UI_20171019_002733	{@st43b}Total %s Points
+UI_20171019_002734	{@st66b}More Monsters
+UI_20171019_002735	{@st66d_y}%s Points / {/}{@st42}%s Points{/}
+UI_20171019_002736	Defeated
+UI_20171019_002737	{@st41b}Area
+UI_20171019_002738	Descpription
+UI_20171019_002739	Subcategory
+UI_20171019_002740	{@st66b}More Items
+UI_20171019_002741	Attributes
+UI_20171019_002742	Total Sales
+UI_20171019_002743	{@st66b}More
+UI_20171019_002744	Name A-Z
+UI_20171019_002745	Name Z-A
+UI_20171019_002746	%s Fishes Caught
+UI_20171019_002747	Clears
+UI_20171019_002748	Location
+UI_20171019_002749	%s
+UI_20171019_002750	Class Points %s
+UI_20171019_002751	Team Level %s
+UI_20171019_002752	Exploration
+UI_20171019_002753	%s % Explored
+UI_20171019_002754	- Recommended level
+UI_20171019_002755	- Exploration
+UI_20171019_002756	Type
+UI_20171019_002757	Acquisition Points %s
+UI_20171019_002758	Acquisition Points %s
+UI_20171019_002759	Status
+UI_20171019_002760	SPR +6
+UI_20171019_002761	Adventure Journal Ranking
+UI_20171019_002762	{@st66d_y}%s{/} Battles {@st66d_y}%s{/} Wins {@st66d_y}%s{/} Defeats
+UI_20171019_002763	%s Points
+UI_20171019_002764	{@st59}Participation{/}
+UI_20171019_002765	Uphill Defense Ranking
+UI_20171019_002766	Total Points
+UI_20171019_002767	{@st66b}Point Shop{/}
+UI_20171019_002768	{@st66b}Map Exploration
+UI_20171019_002769	{@st66b}Quests/Achievements
+UI_20171019_002770	{@st66b}Collection
+UI_20171019_002771	{@st66b}Personal Shops
+UI_20171019_002772	{@st66b}Fishing
+UI_20171019_002773	{@st59}Swordsman{/}
+UI_20171019_002774	{@st59}Wizard{/}
+UI_20171019_002775	{@st59}Archer{/}
+UI_20171019_002776	{@st59}Cleric{/}
+UI_20171019_002777	{@st66b}Spectate{/}
+UI_20171019_002778	Area: %s
+UI_20171019_002779	Area
+UI_20171019_002780	{@st42}{s18}My Character List
+UI_20171019_002781	[%s] Reward List
+UI_20171019_002782	? Collect your rewards at the Wings of Vaivora.
+UI_20171019_002783	Retrieve All
+UI_20171019_002784	Territory Wars Alert
+UI_20171019_002785	Spot Last Seized By
+UI_20171019_002786	Current Points
+UI_20171019_002787	My Guild
+UI_20171019_002788	{@st66d}Return to a city in {s20}%s seconds.{/}
+UI_20171019_002789	{@st66d}Return to city{/}
+UI_20171019_002790	{@st43}{s20}Protecting Guild{/}
+UI_20171019_002791	Protecting Guild
+UI_20171019_002792	{@st41_red}Removable Effect{/}
+UI_20171019_002793	{@st43}Exchange Artifact{/}
+UI_20171019_002794	{@st59}Close Exchange Artifact{/}
+UI_20171019_002795	{@st41b}Exchange
+UI_20171019_002796	"To start fishing, select your bait."
+UI_20171019_002797	{@st43b}{s22}Stage %s Tackle Box{/}
+UI_20171019_002798	{@st66d_y}{s22}Stage %s Tackle Box{/}
+UI_20171019_002799	Max. %s slots{nl}Fished %s time(s)
+UI_20171019_002800	{img icon_item_tpBox_30 30 30}{@st43b}{s18}%s TP Upgrade{/}
+UI_20171019_002801	{@st43}Image %s{/}
+UI_20171019_002802	Enter
+UI_20171019_002803	"{@st59b}Enter image{nl}{@st59s}- Browse for an image and register it{nl}- Refresh to update the list, then select the image"
+UI_20171019_002804	{@st66b}{s18}Open folder
+UI_20171019_002805	Open the folder containing the image.
+UI_20171019_002806	Update the list.
+UI_20171019_002807	{@st41b}{nl}Confirm
+UI_20171019_002808	{@st41b}{nl}Cancel
+UI_20171019_002809	{@st43}Guild
+UI_20171019_002810	Guild Master
+UI_20171019_002811	Founded
+UI_20171019_002812	Members
+UI_20171019_002813	%s/%s
+UI_20171019_002814	Funds
+UI_20171019_002815	{@st66}News
+UI_20171019_002816	{@st66}Notes
+UI_20171019_002817	News
+UI_20171019_002818	Notes
+UI_20171019_002819	Member {img %s 13 13}
+UI_20171019_002820	Level {img %s 13 13}
+UI_20171019_002821	Position {img %s 13 13}
+UI_20171019_002822	Contribution
+UI_20171019_002823	{@st66b}{s18}Authorities{/}
+UI_20171019_002824	%s online      %s offline
+UI_20171019_002825	Show online
+UI_20171019_002826	{@st41b}Invite
+UI_20171019_002827	{@st66d_y}{s18}Guild Level{/}
+UI_20171019_002828	{@st43b}{s18}Guild Tower(%s/1){/}
+UI_20171019_002829	Benefits
+UI_20171019_002830	Guild benefits updated to current Templar's Guild Tower level.
+UI_20171019_002831	Attribute Points: %s
+UI_20171019_002832	? Guild upgrading is only available inside the Guild Tower.
+UI_20171019_002833	{@st43b}{s18}Guild Items{/}
+UI_20171019_002834	{@st43b}{s18}Guild Funds{/}
+UI_20171019_002835	Note
+UI_20171019_002836	{img icon_item_silver 24 24} Amount
+UI_20171019_002837	{img in_arrow 20 20}{@st66b}{s18}Deposit  {/}
+UI_20171019_002838	"? This item can be distributed to guild members by the guild master, after which it becomes bound to each character that receives it.{nl}? To receive the item, check your lodge Message Box."
+UI_20171019_002839	{@st43b}{s18}Guild Wars{/}
+UI_20171019_002840	Neutral Status Canceled Alert
+UI_20171019_002841	The alert is displayed starting 1 day before neutrality is canceled.{nl}Only the Guild Master can change this option.
+UI_20171019_002842	"? Guild Towers destroyed in wars can be rebuilt after 24 hours.{nl}? Declarations of war can be done at the opponent guild's tower.{nl}? The war starts 1 hour after it has been declared.{nl}? After declaring war, your guild cannot be disbanded until after the war ends.{nl}? You cannot declare a war without a Guild Tower."
+UI_20171019_002843	{@st43b}{s18}Guild Territory Wars{/}
+UI_20171019_002844	What are Territory Wars
+UI_20171019_002845	Status
+UI_20171019_002846	Not Participating
+UI_20171019_002847	? Guilds with Spots seized are automatically participating.{nl}? After setting the status to  
+UI_20171019_002848	", you cannot transfer the position of Guild Master.{nl}โ“ Only a Templar Guild Master can change the participation status.{nl}โ“ This option can only be changed until 5 minutes before the Territory Wars begin, or after 1 minute after they end.{nl}โ“ The participation status can be changed regardless of whether your guild has a tower or not."
+UI_20171019_002849	{@st43b}{s18}Spot Benefits{/}
+UI_20171019_002850	Spot Areas
+UI_20171019_002851	Grade
+UI_20171019_002852	Silver Reward (%)
+UI_20171019_002853	Spot Rewards
+UI_20171019_002854	? Spot rewards are %s every week.{nl}? The rewards include  
+UI_20171019_002855	 of your Market fees of the previous week.{nl}โ“ Spot rewards are delivered as Copper Bars.{nl}โ“ The maximum possible amount rewarded is %s hundred million Silver.{nl}โ“ Please check our official website for more information.
+UI_20171019_002856	Tuesday 06:00
+UI_20171019_002857	{@st43b}{s18}Guild Emblem{/}
+UI_20171019_002858	{@st41b}{nl}Image %s{/}
+UI_20171019_002859	"? The first emblem can be registered for free.{nl}? Changing the emblem costs %s0,000 Silver.{nl}? Your image must be sized %s and in %s format.{nl}? The file name must be composed of only alphanumeric characters.{nl}? The use of problematic images can result in restrictions."
+UI_20171019_002860	{@st43b}{s18}Hangout Entry Settings{/}
+UI_20171019_002861	Allow Outsiders
+UI_20171019_002862	{@st43b}{s18}Guild News{/}
+UI_20171019_002863	{@st66}{s18}Register{/}
+UI_20171019_002864	{@st43b}{s18}Guild Notes{/}
+UI_20171019_002865	{@st43b}{s18}One-line Message Board{/}
+UI_20171019_002866	Max. 25 characters allowed.
+UI_20171019_002867	? You can post on the One-line Message Board 3 times a day.
+UI_20171019_002868	Guild Info
+UI_20171019_002869	Wars
+UI_20171019_002870	Territory Wars
+UI_20171019_002871	{@st43}Send Items
+UI_20171019_002872	Sending
+UI_20171019_002873	Remaining
+UI_20171019_002874	Team Name {img %s 13 13}
+UI_20171019_002875	Amount
+UI_20171019_002876	{@st41b}{nl}Send
+UI_20171019_002877	{@st42b}{s20}Continue Shopping
+UI_20171019_002878	{@st42b}{s20}Close
+UI_20171019_002879	{@st66}Close
+UI_20171019_002880	{img monsterbtn_image 29 28}{@st66b}{s16}Monster Cards{/}
+UI_20171019_002881	{@st59}Open Monster Cards Window{/}
+UI_20171019_002882	{@st43}{s22}Leticia's Secret Cube{/}
+UI_20171019_002883	Cube Name
+UI_20171019_002884	{nl}{img %s 40 40}{@st42b}{s20}Cubes  
+UI_20171019_002885	? See the official website and item descriptions for more info.
+UI_20171019_002886	{@st43}Equip Monster Cards{/}
+UI_20171019_002887	{@st59}Close Equip Monster Cards{/}
+UI_20171019_002888	{@st59}Only Templar Guild Master in Team{/}
+UI_20171019_002889	{@st66b}Respawn in nearby city (30 seconds){/}
+UI_20171019_002890	{@st66b}Show Party Name{/}
+UI_20171019_002891	{@st66b}Recipe Material Obtained{/}
+UI_20171019_002892	{@st43}PvP Settings{/}
+UI_20171019_002893	{@st66b}Damage Font Scale (%s){/}
+UI_20171019_002894	{@st66b}Show Tile Range{/}
+UI_20171019_002895	{@st66b}Use Attack Effects
+UI_20171019_002896	"{@st66b}Your Team name represents all your characters and is used in trading, Guilds, chat, etc.{nl}Changing your Team name consumes 150 TP, so choose it carefully.{/}"
+UI_20171019_002897	{@st41}%s Points
+UI_20171019_002898	Text
+UI_20171019_002899	Qtt.
+UI_20171019_002900	{@st66b}Rank %s
+UI_20171019_002901	{@st66b}%s Points
+UI_20171019_002902	Maps
+UI_20171019_002903	Type
+UI_20171019_002904	Item Type
+UI_20171019_002905	Latest Acquisition
+UI_20171019_002906	Location
+UI_20171019_002907	Star Star Star
+UI_20171019_002908	Shop Name
+UI_20171019_002909	Sales
+UI_20171019_002910	Attribute
+UI_20171019_002911	Fish Name
+UI_20171019_002912	Total %s Times Cleared
+UI_20171019_002913	Area
+UI_20171019_002914	Map
+UI_20171019_002915	Enter the name of the character or team.
+UI_20171019_002916	Name
+UI_20171019_002917	Quest
+UI_20171019_002918	%s
+UI_20171019_002919	Title
+UI_20171019_002920	What What
+UI_20171019_002921	Reward
+UI_20171019_002922	Additional +1 reward from Saalus Missions
+UI_20171031_002923	ปิด UI เข้าร่วม
+UI_20171031_002924	ตรวจสอบระยะเวลาการเข้าร่วม
+UI_20171031_002925	* รางวัลจะถูกมอบให้ทาง Inventory โดยอัตโนมัติเมื่อออนไลน์ในวันดังกล่าว {nl}* ถ้าเลยวันดังกล่าวไปแล้ว จะไม่ได้รับรางวัลของวันนั้น{nl}* ไอเทมรางวัล (สามารถแชร์ไปยังคลังทีม/สามารถเคลื่อนย้ายไปยังคลังทีม/สามารถแชร์ภายในทีม){nl}
+UI_20171031_002926	{img icon_item_tospoint 24 24}{@st41b}Consume 0 TP{nl}Unequip card without the loss of a star{/}
+UI_20171031_002927	เปลี่ยนอาชีพดังกล่าวกลับไปก่อนหน้านี้
+UI_20171031_002928	ชื่อแผนที่
+UI_20171031_002929	ใช้ {@st42b}
